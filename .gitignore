@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Cau hinh ca nhan
+.vscode/
+.env
+
+# Du lieu cuc bo
+logs/
+*.log
